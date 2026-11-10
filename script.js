@@ -10,8 +10,8 @@ let creature2 = prompt("Enter the name of a spooky creature.")
 
 let story = `
     On a mysterious and ${adjective1} Halloween night, I decided to go to a abandond house with my friend.
-    I was creeping around in the dark using my sesnes to navigate my way around. I felt something ${adjective2} and thought it was something from a urban legend like ${creature} that looked ${adjective3}.
-    My friend, ${friend}, dressed up as a ${adjective4} ${creature2}.
+    I was creeping around in the dark using my sesnes to navigate my way around. I felt something ${adjective2} and thought it was something from a urban legend like ${creature} it looked so ${adjective3}.
+    My friend, ${friend}, ran and was ${adjective4} as he was running from ${creature2}.
 `;
 
 let madLibOutputDiv = document.getElementById("madLibOutput");
